@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pythondeveloperops
+- 👀 I’m interested in cli tools
+- 🌱 I’m currently learning python and ai
+- 😄 Pronouns: he/him
